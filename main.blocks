@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="v(p^,DW4XdFsjKbo}Wp6" x="0" y="0"></block><block type="pxt-on-start" id=")unWn_Aaa)+HIpWYai%u" x="-188" y="235"><statement name="HANDLER"><block type="jacdac_dualmotors_speed_set" id="g%+`Tzz]ofJZeJo`$;DZ"><field name="motor">modules.dualMotors1</field><value name="left"><shadow type="speedPicker" id="#.P4w4eOAs?XE53k{QGe"><field name="speed">77</field></shadow></value><value name="right"><shadow type="speedPicker" id="%Z8R_9nRMD]z)Hp01_m_"><field name="speed">-24</field></shadow></value></block></statement></block></xml>

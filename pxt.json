@@ -3,12 +3,17 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.22",
+        "jacdac-dual-motors": "github:microsoft/pxt-jacdac/dual-motors#v1.9.22",
+        "v3": "*"
     },
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "jacdac.json",
+        "jacdac.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -21,5 +26,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
