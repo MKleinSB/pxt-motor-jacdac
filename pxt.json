@@ -5,8 +5,8 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:microsoft/pxt-jacdac#v1.9.22",
-        "jacdac-dual-motors": "github:microsoft/pxt-jacdac/dual-motors#v1.9.22",
-        "v3": "*"
+        "v3": "*",
+        "jacdac-motor": "github:microsoft/pxt-jacdac/motor#v1.9.22"
     },
     "files": [
         "README.md",
