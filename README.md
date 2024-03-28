@@ -4,8 +4,7 @@
 Bei dieser Erweiterung handelt es sich um Softwarejacdac für die beiden Motortreiber des Calliope mini V3.
 Beide Motoren können unabhängig gesteuert werden.
 
-![... in Aktion](https://github.com/MKleinSB/pxt-motor-jacdac/blob/master/icon.png)
-
+![... in Aktion](https://github.com/MKleinSB/pxt-motor-jacdac/raw/master/icon.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
