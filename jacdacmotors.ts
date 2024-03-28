@@ -18,7 +18,7 @@ namespace servers {
         if (speed === 0 || isNaN(speed) || !enabled) {
             motors.dualMotorPower(motor, 0)
         } else {
-            motors.dualMotorPower(motor, Math.abs(speed) * 100)
+            motors.dualMotorPower(motor, speed * 100)
         }
     }
 

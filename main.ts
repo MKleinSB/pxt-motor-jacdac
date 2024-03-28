@@ -4,7 +4,5 @@ input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
 })
 input.onButtonEvent(Button.B, input.buttonEventClick(), function () {
     modules.calliopeMotorM0.run(100)
-    modules.calliopeMotorM1.run(100)
+    modules.calliopeMotorM1.run(-100)
 })
-modules.calliopeMotorM0.setEnabled(true)
-modules.calliopeMotorM1.setEnabled(true)
