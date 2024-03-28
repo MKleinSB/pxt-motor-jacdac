@@ -18,6 +18,13 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/mkleinsb/pxt-motor-jacdac** ein und klicke auf Importieren
 
+## Jacdac für Calliope mini V3 Onboardmotortreiber
+
+Bei dieser Erweiterung handelt es sich um ein Softwarejacdac für die beiden Motortreiber des Calliope mini V3
+
+![... in Aktion](https://github.com/MKleinSB/pxt-motort-jacdac/icon.png)
+
+
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/calliopemini
