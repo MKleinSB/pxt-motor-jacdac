@@ -4,23 +4,24 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.22",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.27",
         "v3": "*",
-        "jacdac-motor": "github:microsoft/pxt-jacdac/motor#v1.9.22"
+        "jacdac-motor": "github:microsoft/pxt-jacdac/motor#v1.9.27"
     },
     "files": [
         "README.md",
         "main.blocks",
         "main.ts",
         "jacdac.json",
-        "jacdac.ts"
+        "jacdac.ts",
+        "jacdacmotors.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
     "targetVersions": {
-        "target": "6.0.22",
+        "target": "6.0.28",
         "targetId": "calliopemini"
     },
     "supportedTargets": [
