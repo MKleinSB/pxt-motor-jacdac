@@ -6,6 +6,10 @@ Beide Motoren können unabhängig gesteuert werden.
 
 ![... in Aktion](https://github.com/MKleinSB/pxt-motor-jacdac/raw/master/icon.png)
 
+Zur Steuerung der Motoren *nicht motor1*, sondern  _Calliope Motor M0_ und _Calliope Motor M1_ auswählen.
+
+![Motorauswahl](https://github.com/MKleinSB/pxt-motor-jacdac/raw/master/motor.png)
+
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/calliopemini
