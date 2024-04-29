@@ -4,9 +4,9 @@
     "description": "Jacdac for Calliope onboard motor drivers",
     "dependencies": {
         "core": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.27",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
         "v3": "*",
-        "jacdac-motor": "github:microsoft/pxt-jacdac/motor#v1.9.27"
+        "jacdac-motor": "github:microsoft/pxt-jacdac/motor#v1.9.28"
     },
     "files": [
         "README.md",
