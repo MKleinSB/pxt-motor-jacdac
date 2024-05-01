@@ -1,6 +1,6 @@
 {
     "name": "pxt-motor-jacdac",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Jacdac for Calliope onboard motor drivers",
     "dependencies": {
         "core": "*",
